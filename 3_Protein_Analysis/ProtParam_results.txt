@@ -1,0 +1,76 @@
+A0A8M8ULK1_SESIN (A0A8M8ULK1)
+Description:
+FBD-associated F-box protein At4g13985-like
+Organism:
+Sesamum indicum (Oriental sesame) (Sesamum orientale)
+The parameters have been computed for the following feature:
+FT   DOMAIN  20  54  F-box
+Considered sequence fragment:
+      1          11         21         31         41         51         
+      |          |          |          |          |          |          
+    1                     V DRLSALPDDI LHRVFSYLDF LDVVRTSVLS KRWR
+» Fasta
+Warning: All computation results shown below do not take into account any annotated post-translational modification.
+[Documentation / Reference]
+Number of amino acids: 35
+Theoretical pI: 8.56
+Molecular weight: 4188.85
+
+Amino acid composition: 
+Ala (A)   1	  2.9%
+Arg (R)   5	 14.3%
+Asn (N)   0	  0.0%
+Asp (D)   5	 14.3%
+Cys (C)   0	  0.0%
+Gln (Q)   0	  0.0%
+Glu (E)   0	  0.0%
+Gly (G)   0	  0.0%
+His (H)   1	  2.9%
+Ile (I)   1	  2.9%
+Leu (L)   6	 17.1%
+Lys (K)   1	  2.9%
+Met (M)   0	  0.0%
+Phe (F)   2	  5.7%
+Pro (P)   1	  2.9%
+Ser (S)   4	 11.4%
+Thr (T)   1	  2.9%
+Trp (W)   1	  2.9%
+Tyr (Y)   1	  2.9%
+Val (V)   5	 14.3%
+Pyl (O)   0	  0.0%
+Sec (U)   0	  0.0%
+
+ (B)   0	  0.0%
+ (Z)   0	  0.0%
+ (X)   0	  0.0%
+
+Total number of negatively charged residues (Asp + Glu): 5
+Total number of positively charged residues (Arg + Lys): 6
+
+Atomic composition:
+Carbon      C	       191
+Hydrogen    H	       304
+Nitrogen    N	        54
+Oxygen      O	        52
+Sulfur      S	         0
+
+Formula: C191H304N54O52
+Total number of atoms: 601
+
+Extinction coefficients:
+Extinction coefficients are in units of  M-1 cm-1, at 280 nm measured in water.
+Ext. coefficient     6990
+Abs 0.1% (=1 g/l)   1.669
+
+Estimated half-life:
+The N-terminal of the sequence considered is V (Val).
+The estimated half-life is: 100 hours (mammalian reticulocytes, in vitro).
+                            >20 hours (yeast, in vivo).
+                            >10 hours (Escherichia coli, in vivo).
+
+Instability index:
+The instability index (II) is computed to be 35.64
+This classifies the protein as stable.
+
+Aliphatic index: 122.29
+Grand average of hydropathicity (GRAVY):0.026
