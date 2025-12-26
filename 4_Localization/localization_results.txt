@@ -1,0 +1,3 @@
+# TargetP-2.0	Organism: Plant	Timestamp: 20251226025219
+# ID	Prediction	OTHER	SP	mTP	cTP	lTP	CS Position
+Sequence	OTHER	0.534272	0.386176	0.000000	0.079535	0.000017	
