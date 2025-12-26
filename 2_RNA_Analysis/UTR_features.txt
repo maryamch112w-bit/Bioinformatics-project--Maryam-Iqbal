@@ -1,0 +1,9 @@
+1. 5’ UTR Features
+Location: Kozak-like Sequence: Identified a plant-specific translation initiation consensus (typically aaA(A/G)aaAUGGC) surrounding the start codon.
+Significance: This sequence is essential for proper recognition of the start codon by the 40S ribosomal subunit in S. indicum.
+Significance: uORFs can act as translational dampeners, reducing the protein synthesis of the F-box gene under specific physiological conditions.
+
+
+2. 3’ UTR Features
+Polyadenylation Signal: Located the AAUAAA (or a common plant variant like AATAAA) motif approximately 10–30 nucleotides upstream of the cleavage site.
+Significance: This signal directs the cleavage of the mRNA and the addition of the poly-A tail, which is vital for nuclear export and transcript stability.
